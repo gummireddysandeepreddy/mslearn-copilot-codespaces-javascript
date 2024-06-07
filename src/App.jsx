@@ -29,7 +29,7 @@ const siteProps = {
   email: "gummireddysandeepreddy@gmail.com",
   gitHub: "gummireddysandeepreddy",
   instagram: "sandeepreddygummireddy",
-  linkedIn: "gummireddy-venkata-sandeep-reddy-35a1a524",
+  linkedIn: "gummireddy-venkata-sandeep-reddy-35a1a524a",
   medium: "",
   twitter: "",
   youTube: "",
