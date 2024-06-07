@@ -74,3 +74,6 @@ The prompts uses `@workspace` which is a special feature of GitHub Copilot chat 
 Your site should already be running in your Codespace, and the change will reload onto the page automatically. To see them, hover over one of your social media icons in the footer to see the magic!
 
 Congratulations, through the exercise, you have use GitHub Copilot to generate code and also done it in an interactive and fun way! You can use GitHub Copilot to not only generate code, but write documentation, test your applications and more.
+
+### Thoughts on the Repository
+This site was manipulated by using mslearn-copilot-codespaces-javascript by learning how GitHub Copilot work with JavaScript
